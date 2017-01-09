@@ -311,7 +311,7 @@ def get_path():
 
 
 def main():
-    test = zabbixtools("http://zabbix.gitcloud.cc/api_jsonrpc.php", user="Admin", passwd="rq071108@")
+    test = zabbixtools("http://zabbix.gitcloud.cc/api_jsonrpc.php", user="Admin", passwd="admin")
     # test = zabbixtools()
     # test.template_get()               #模板数
     print test.hostgroup_get()
