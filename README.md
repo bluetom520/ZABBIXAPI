@@ -29,5 +29,5 @@ passwd = admin
 ### 4 grafana配置
 导入模板监控统计-1483371984794.json到grafana
 
-##具体内容参考：https://note.gitcloud.cc/blog/post/bluetom520
+##具体内容参考：https://note.gitcloud.cc/blog/bluetom520
 
